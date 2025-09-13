@@ -1,3 +1,3 @@
-## Iniciando projeto **Imersão Dev Agents de IA Google"** da Alura.
+## Projeto **Imersão Dev Agents de IA Google** da Alura.
 
 
